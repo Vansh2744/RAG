@@ -7,3 +7,5 @@ pymupdf
 pypdf
 cohere
 qdrant-client
+langchain-huggingface
+sentence-transformers
