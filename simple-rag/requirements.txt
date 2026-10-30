@@ -10,3 +10,7 @@ qdrant-client
 langchain-huggingface
 sentence-transformers
 langchain-cohere
+pinecone
+langchain-pinecone
+tabulate
+pillow
