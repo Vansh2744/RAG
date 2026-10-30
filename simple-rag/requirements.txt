@@ -14,3 +14,4 @@ pinecone
 langchain-pinecone
 tabulate
 pillow
+langchain-litellm
